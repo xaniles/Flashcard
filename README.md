@@ -7,7 +7,7 @@ Simple flashcard lab done.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+https://imgur.com/SC8ArRN
 
 ## Required
 - [x] Create New Project in Xcode
